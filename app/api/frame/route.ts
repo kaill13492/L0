@@ -1,3 +1,5 @@
+export const runtime = 'edge'
+
 import { Frog } from 'frog'
 import { handle } from 'frog/next'
 
